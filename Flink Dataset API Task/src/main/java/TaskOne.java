@@ -1,4 +1,4 @@
-package com.snithish.c;
+package com.htefera.*;
 
 import org.apache.flink.api.common.functions.*;
 import org.apache.flink.api.common.typeinfo.TypeHint;
