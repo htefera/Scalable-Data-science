@@ -9,7 +9,7 @@ with [TaskOne.java](src/main/java/com/snithish/c/Application.java) acting as dri
 
 ## Prerequisites:
 
-1. Java 8
+Java 8
 
 ## Local:
 
