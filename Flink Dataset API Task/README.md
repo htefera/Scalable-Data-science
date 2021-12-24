@@ -5,11 +5,14 @@ Task is accomplished using Java 8 with [gradle](https://gradle.org/) used as bui
 Core logic is encapsulated in [TaskOne.java](src/main/java/TaskOne.java)
 with [Application.java](src/main/java/Application.java) acting as driver and main entry point.
 
-# Usage:
 
-## Prerequisites:
 
-Java 8
+##  Tools 
+
+* Java 8
+* Gradle build tool
+* IntelliJ IDEA
+
 
 ## Local:
 
