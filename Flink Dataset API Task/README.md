@@ -12,6 +12,8 @@ with [Application.java](src/main/java/Application.java) acting as driver and mai
 * Java 8
 * Gradle build tool
 * IntelliJ IDEA
+* Docker 
+* Ubuntu
 
 
 ## Local:
