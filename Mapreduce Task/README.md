@@ -16,7 +16,7 @@ To handle the task
 - **MainLocal.java**: driver program
 
 
-### How to execute the program
+### Program execution
 
 - Using intellij run configuration and supply with the following arguments
 
