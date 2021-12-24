@@ -12,7 +12,7 @@ Task is accomplished using Java 8 with [gradle](https://gradle.org/) used as bui
 
 There are two files
 * Core logic is encapsulated in [TaskOne.java](src/main/java/TaskOne.java)
-* with [Application.java](src/main/java/Application.java) acting as driver and main entry point.
+* With [Application.java](src/main/java/Application.java) acting as driver and main entry point
 
 ## Local:
 
