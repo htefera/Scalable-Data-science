@@ -14,7 +14,7 @@ The following tools are used for to implement the project:-
 * Build tool-Maven
 * Language: Java
 
-#### [MapReduce Implementation](https://github.com/htefera/Scalable-Data-Science-Project1/tree/master/Mapreduce%20Task)
+#### [MapReduce Implementation](https://github.com/htefera/Scalable-Data-science-Project-1/tree/master/Mapreduce%20Task)
 #### [Spark API Implementation](https://github.com/htefera/Scalable-Data-Science-Project1/tree/master/Spark%20Task)
 #### [Flink using Dataset API Implementation]()
 #### [Flink using Streaming API Implementation](https://github.com/htefera/Scalable-Data-Science-Project1/tree/master/Flink%20Streaming%20Task)
