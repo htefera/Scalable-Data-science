@@ -1,4 +1,4 @@
-# C: Flink Batch Processing
+#  Flink Batch Processing
 
 Task is accomplished using Java 8 with [gradle](https://gradle.org/) used as build tool.
 
