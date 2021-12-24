@@ -1,4 +1,4 @@
-# 2: Spark Batch processing task
+#  Spark Batch processing task
 
 ### Tools and IDE
 -  Java 8 
@@ -10,7 +10,7 @@ Two files corresponding to each task are present
 - **Tasktwo.java:**  Logic for Single source shortest path
 
 
-## How to execute the program
+## Program execution
 - Import as a maven project
 - Use the run project option from the Intellij Idea menus
 
