@@ -15,8 +15,8 @@ The following tools are used for to implement the project:-
 * Language: Java
 
 #### [MapReduce Implementation](https://github.com/htefera/Scalable-Data-science-Project-1/tree/master/Mapreduce%20Task)
-#### [Spark Batch Processing API Implementation](https://github.com/htefera/Scalable-Data-science-Project-1/tree/master/Spark%20Batch%20Processing%20Task)
-#### [Flink using Dataset API Implementation]()
-#### [Flink using Streaming API Implementation](https://github.com/htefera/Scalable-Data-Science-Project1/tree/master/Flink%20Streaming%20Task)
+#### [Spark Batch Processing Implementation](https://github.com/htefera/Scalable-Data-science-Project-1/tree/master/Spark%20Batch%20Processing%20Task)
+#### [Flink Dataset API Implementation](https://github.com/htefera/Scalable-Data-science-Project-1/tree/master/Flink%20Dataset%20API%20Task)
+#### [Flink Streaming API Implementation](https://github.com/htefera/Scalable-Data-Science-Project1/tree/master/Flink%20Streaming%20Task)
 
  
