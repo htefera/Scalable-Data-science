@@ -1,4 +1,4 @@
-# 1-MapReduce Task
+# MapReduce Task
 
 To handle the task 
 
