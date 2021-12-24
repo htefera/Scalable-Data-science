@@ -3,7 +3,7 @@
 Task is accomplished using Java 8 with [gradle](https://gradle.org/) used as build tool.
 
 Core logic is encapsulated in [TaskOne.java](src/main/java/TaskOne.java)
-with [TaskOne.java](src/main/java/Application.java) acting as driver and main entry point.
+with [Application.java](src/main/java/Application.java) acting as driver and main entry point.
 
 # Usage:
 
