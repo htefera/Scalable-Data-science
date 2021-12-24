@@ -9,7 +9,7 @@ To handle the task
 -  [Hadoop](https://hadoop.apache.org/) 1.2.1 with [maven](https://maven.apache.org/) as a build tool
  
 
- #### Three are three files inside the A folder
+  Three are three files inside the main folder
 
 - **Taskone.java**: logic for task  one
 - **Tasktwo.java** : logic for task two 
