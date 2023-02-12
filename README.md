@@ -18,6 +18,9 @@ The four APIs we experimented with are:
 * Java 8 
 * Gradle build tool
 * Docker
+* Spark
+* Hadoop
+* Flink
 
 
 ## Links to the Various Implementation
