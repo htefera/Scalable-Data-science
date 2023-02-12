@@ -9,11 +9,11 @@ The goal of the project is to process data using the following big data framewor
 * Apache Flink Streaming API
 
 
-The following tools are used for to implement the project:-
+**Tools** <br>
 
-* IDE-IntelliJ IDEA
-* Build tool-Maven
-* Language: Java
+* IntelliJ IDEA
+* Maven
+* Java
 
 #### [MapReduce Implementation](https://github.com/htefera/Scalable-Data-science-Project-1/tree/master/Mapreduce%20Task)
 #### [Spark Batch Processing Implementation](https://github.com/htefera/Scalable-Data-science-Project-1/tree/master/Spark%20Batch%20Processing%20Task)
