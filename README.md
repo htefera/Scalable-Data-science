@@ -14,8 +14,12 @@ The four APIs we experimented with are:
 **Tools** <br>
 
 * IntelliJ IDEA
-* Maven
-* Java
+* Maven Build tool
+* Java 8 
+* Gradle build tool
+* Docker
+
+
 ## Links to the Various Implementation
 1.  [MapReduce Implementation](https://github.com/htefera/Scalable-Data-science-Project-1/tree/master/Mapreduce%20Task)
 2. [Spark Batch Processing Implementation](https://github.com/htefera/Scalable-Data-science-Project-1/tree/master/Spark%20Batch%20Processing%20Task)
