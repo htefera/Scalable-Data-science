@@ -15,7 +15,7 @@ The four APIs we experimented with are:
 * IntelliJ IDEA
 * Maven
 * Java
-# Links to the Various Implementation
+## Links to the Various Implementation
 1.  [MapReduce Implementation](https://github.com/htefera/Scalable-Data-science-Project-1/tree/master/Mapreduce%20Task)
 2. [Spark Batch Processing Implementation](https://github.com/htefera/Scalable-Data-science-Project-1/tree/master/Spark%20Batch%20Processing%20Task)
 3. [Flink Dataset API Implementation](https://github.com/htefera/Scalable-Data-science-Project-1/tree/master/Flink%20Dataset%20API%20Task)
