@@ -1,7 +1,7 @@
 ## Course Project
 ## Course Name: Scalable Data Science
 
-The goal of the project is to manipulate data using popular distributed big data frameworks or APIs to evaluate how various data modeling impacts performance.<br>
+The goal of the project is to manipulate data using popular distributed big data frameworks or APIs to evaluate how various data modeling impacts performance, report and reason out the findings <br>
 
 The four APIs we experimented with are:
 
