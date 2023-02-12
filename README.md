@@ -1,8 +1,9 @@
 ## Course Project
 ## Course Name: Scalable Data Science
 
-The goal of the project is to process data using the popular distributed big data frameworks and evaluate their performance. 
-The four APIs we experimented with are: 
+The goal of the project is to manipulate data using popular distributed big data frameworks or APIs to evaluate how various data modeling impacts performance.<br>
+
+The four APIs we experimented with are:
 
 1.  Hadoop MapReduce
 2.  Apache Spark 
