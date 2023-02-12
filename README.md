@@ -1,4 +1,5 @@
-# Scalable Data Science Course Project
+## Course Project
+## Course Name: Scalable Data Science
 
 The goal of the project is to process data using the following big data frameworks  and evaluate their performance. 
 
