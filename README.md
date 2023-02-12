@@ -1,12 +1,13 @@
 ## Course Project
 ## Course Name: Scalable Data Science
 
-The goal of the project is to process data using the following big data frameworks  and evaluate their performance. 
+The goal of the project is to process data using the popular distributed big data frameworks and evaluate their performance. 
+The four APIs we experimented with are: 
 
-* MapReduce Framework
-* Apache Spark API
-* Apache Flink DataSet API 
-* Apache Flink Streaming API
+1.  Hadoop MapReduce
+2.  Apache Spark 
+3.  Apache Flink DataSet API 
+4.  Apache Flink Streaming API
 
 
 **Tools** <br>
